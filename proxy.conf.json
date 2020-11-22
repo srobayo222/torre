@@ -1,0 +1,7 @@
+{
+    "/api/*":{
+        "taget":"https://bio.torre.co",
+        "secure":false,
+        "changeOrigin": true
+    }
+}
